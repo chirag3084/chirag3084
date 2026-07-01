@@ -20,16 +20,15 @@ Customizable, clean, and secure backend solutions are my jam. I specialize in bu
 
 ### 💼 Professional Experience
 
-**Backend Developer** | *We3vision Private Limited* | *(May 2026 – Present)*
+**Backend Developer Intern** | *We3vision Private Limited* | *(May 2026 – Present)*
 * Architect and maintain robust, scalable backend services and systems.
-* Design, build, and rigorously test REST APIs for seamless frontend integration.
-* Implement highly secure authentication and authorization protocols.
-* Integrate AI models into production-ready web applications.
+* Work on secure totp based document access portal. 
+* implement robust security features. 
 
 **Security Engineer Intern** | *We3vision Private Limited* | *(Jan 2026 – May 2026)*
-* Conducted web application vulnerability assessments and penetration testing.
-* Analyzed potential security risks and designed secure application logic.
-* Hardened authentication workflows and secured real-time chat mechanisms.
+* Conducted web application chat securtiy
+* Analyzed potential security risks and designed secure authentication system.
+* Maintain the production security for proper deployment.
 
 ---
 
