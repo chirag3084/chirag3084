@@ -34,7 +34,7 @@ Customizable, clean, and secure backend solutions are my jam. I specialize in bu
 
 ### 📂 Featured Projects
 
-#### 🍽️ [Food World](YOUR_REPOSITORY_LINK_HERE)
+#### 🍽️ [Food World](https://github.com/chirag3084/receipe)
 A full-stack recipe management platform focusing on seamless user experience and secure data management.
 * **Features:** Full CRUD functionality for recipes, user authentication, and profile-specific dashboards.
 * **Stack:** Django, Bootstrap, Supabase, HTML5/CSS3
