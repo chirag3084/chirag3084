@@ -68,4 +68,4 @@ If you want to collaborate on open-source Python/Django projects, talk backend a
 
 * 📧 **Email:** [chiragsurti561300@gmail.com](mailto:chiragsurti561300@gmail.com)
 * 💼 **LinkedIn:** [Surati Chirag](www.linkedin.com/in/chiragsurti10)
-* 🐙 **GitHub Portfolio:** [chirag3084](https://github.com/chirag3084/chirag3084)
+
