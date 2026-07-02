@@ -21,9 +21,9 @@ I specialize in building scalable, secure, and maintainable backend applications
 ### 💼 Professional Experience
 
 **Backend Developer Intern** | *We3vision Private Limited* | *(May 2026 – Present)*
-* Architect and maintain robust, scalable backend services and systems.
-* Work on secure totp based document access portal. 
-* implement robust security features. 
+* Design and maintain scalable backend services.
+* Developed a secure **TOTP-based document access portal** with role-based authentication.
+* Implemented robust security features including authentication, and secure document access. 
 
 **Security Engineer Intern** | *We3vision Private Limited* | *(Jan 2026 – May 2026)*
 * Conducted web application chat securtiy
