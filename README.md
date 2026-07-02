@@ -50,7 +50,7 @@ A secure personal finance tracker designed to keep close eyes on transaction his
 
 * **Bachelor of Engineering in Information Technology** (2022 – 2026)
   * *R.N.G Patel Institute of Technology* | **CGPA: 7.43**
-* **Certification:** Python Django 101 (MVT Architecture & frontend integration )
+* **Certification:** Python Django 101 
 
 
 ---
