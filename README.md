@@ -57,7 +57,7 @@ A secure personal finance tracker designed to keep close eyes on transaction his
 
 ### 🌱 Current Focus
 * 🚀 Deep-diving into advanced **Django REST Framework (DRF)** features (throttling, advanced caching).
-* 🔐 Exploring deep application security protocols and OAuth2 integrations.
+* 🔐 Exploring advanced application security concepts, OAuth2, and JWT authentication.
 * 🤖 Expanding my toolkit with AI-driven backend automations.
 
 ---
