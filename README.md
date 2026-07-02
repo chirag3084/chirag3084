@@ -42,7 +42,7 @@ A full-stack recipe management platform focusing on seamless user experience and
 #### 💰 [Finance Tracker](https://github.com/chirag3084/transcation)
 A secure personal finance tracker designed to keep close eyes on transaction histories and monthly metrics.
 * **Features:** User authentication, interactive expense logging, and categorization analytics.
-* **Stack:** Django, MySQL, Django Template Language (DTL)
+* **Stack:** Django, Posgres, Django Template Language (DTL)
 
 ---
 
