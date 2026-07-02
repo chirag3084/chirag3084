@@ -3,7 +3,7 @@
 ### 🚀 Backend Developer | Python & Django Enthusiast
 📍 Surat, Gujarat, India
 
-Customizable, clean, and secure backend solutions are my jam. I specialize in building scalable web applications, developing robust APIs, integrating AI models, and implementing tight application security. Currently, I am expanding my skills as a **Backend Developer** at We3vision Private Limited.
+I specialize in building scalable, secure, and maintainable backend applications, developing REST APIs, integrating AI models, and implementing modern application security practices. Currently, I am working as a **Backend Developer** at **We3vision Private Limited**.
 
 ---
 
