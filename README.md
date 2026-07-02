@@ -67,5 +67,5 @@ A secure personal finance tracker designed to keep close eyes on transaction his
 If you want to collaborate on open-source Python/Django projects, talk backend architecture, or discuss application security, let’s get in touch!
 
 * 📧 **Email:** [chiragsurti561300@gmail.com](mailto:chiragsurti561300@gmail.com)
-* 💼 **LinkedIn:** [Surati Chirag](www.linkedin.com/in/chiragsurti10)
+* 💼 **LinkedIn:** [Surati Chirag](https://www.linkedin.com/in/chiragsurti10)
 
